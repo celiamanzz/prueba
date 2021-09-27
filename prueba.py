@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-print("Hello World")
+print("Hello GitHub")
 
 
 def printNumbers(n):
